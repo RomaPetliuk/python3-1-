@@ -19,3 +19,5 @@ print(a * b * c)
 print("a : b : c= ")
 print(a / b / c)
 print("great numbers")
+
+print("Cant u calculate by yourself?")
