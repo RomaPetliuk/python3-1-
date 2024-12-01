@@ -21,3 +21,13 @@ print(a / b / c)
 print("great numbers")
 
 print("Cant u calculate by yourself?")
+
+if a <= 100:(
+    print("small number a")
+)
+if b <= 100:(
+    print("small number b")
+)
+if c <= 100:(
+    print("small number c")
+)
