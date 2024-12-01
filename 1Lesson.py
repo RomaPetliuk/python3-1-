@@ -7,7 +7,7 @@ if userage >= 40:(
     print("ти СКУФ")
 )
 else:(
-    print("и не скуф")
+    print("ти не скуф")
 )
 
 print("a + b = ")
