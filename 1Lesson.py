@@ -1,7 +1,7 @@
 a = int(input("Введіть 1 значення "))
 b = int(input("Введіть 2 значення "))
 c = int(input("Введіть 3 значення "))
-userage = int(input("колько те лет?"))
+userage = int(input("колько те лет? "))
 
 if userage >= 40:(
     print("ти СКУФ")
