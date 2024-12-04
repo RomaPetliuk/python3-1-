@@ -1,10 +1,10 @@
-Usergrade = int(input("Ведите свою оценку: "))
+userGrade = int(input("Please input your grade: "))
 
-if Usergrade >= 0 and Usergrade <= 49:
-    print("Незадовольнительно")
-elif Usergrade >= 50 and Usergrade <= 69:
-    print("Нормально")
-elif Usergrade >= 70 and Usergrade <= 89:
-    print("Хорошо")
+if 0 <= userGrade <= 49:
+    print("Bad")
+elif 50 <= userGrade <= 69:
+    print("Mid")
+elif 70 <= userGrade <= 89:
+    print("Good")
 else:
-    print("Отлично")
+    print("Great")
