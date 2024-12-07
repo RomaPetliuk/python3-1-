@@ -8,3 +8,4 @@ elif 70 <= userGrade <= 89:
     print("Good")
 else:
     print("Great")
+
