@@ -1,6 +1,6 @@
-from lesson5.berserk import Berserk
+from lesson5.classes import Berserk
 from character import Character
-from lesson5.berserk import Tank
+from lesson5.classes import Tank
 
 
 player1 = Tank("Andrey", 110, 10, 10)
