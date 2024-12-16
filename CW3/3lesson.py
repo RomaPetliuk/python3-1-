@@ -1,5 +1,5 @@
 from character import Character
-from lesson5.classes import Berserk
+from CW5.classes import Berserk
 
 player1 = Character("Andrey trubochist", 110, 7, 0)
 player1.print_stats()

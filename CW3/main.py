@@ -1,15 +1,15 @@
-from lesson5.classes import Berserk
-from character import Character
-from lesson5.classes import Tank
+from CW5.classes import Berserk
+from CW5.classes import Tank
+from HW5.classAssasin import Assassin
 
 
-player1 = Tank("Andrey", 110, 10, 10)
+player1 = Berserk("Andrey", 500, 50, 10)
 player1.print_stats()
 
-player2 = Berserk("Gde Krishichka", 100, 15, 0)
+player2 = Assassin("Roma", 300, 75, 30)
 player2.print_stats()
 
-player3 = Character("Ekaterina Mezylina", 100, 15, -5)
+player3 = Tank("Ekaterina", 1500, 15, 50)
 player3.print_stats()
 
 

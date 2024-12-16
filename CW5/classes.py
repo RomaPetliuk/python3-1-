@@ -1,4 +1,4 @@
-from lesson3.character import Character
+from CW3.character import Character
 class Berserk(Character):
     damage_multiplier = 15
     rage_limit = 60;
