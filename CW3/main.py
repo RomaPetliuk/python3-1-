@@ -7,7 +7,7 @@ player1 = Berserk("Andrey", 500, 50, 10)
 player1.print_stats()
 
 player2 = Assassin("Roma", 300, 75, 30)
-player2.print_stats()
+player2.print_stats() 
 
 player3 = Tank("Ekaterina", 1500, 15, 50)
 player3.print_stats()
